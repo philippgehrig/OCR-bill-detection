@@ -4,7 +4,7 @@ OCR bill detection is a python program which can detect the type of your househo
 Tools & library used: 
 
 * jyupter notebook
-* python langiage
+* python language
 * NLTK library
 * Pytesseract library
 * matplotlib 
